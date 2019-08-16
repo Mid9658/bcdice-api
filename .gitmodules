@@ -1,3 +1,7 @@
 [submodule "bcdice"]
 	path = bcdice
+<<<<<<< HEAD
 	url = https://github.com/Mid9658/BCDice
+=======
+	url = https://github.com/Mid9658/BCDice-1
+>>>>>>> 824854d7deec4b4b89d1cba43981462f2ef17672
